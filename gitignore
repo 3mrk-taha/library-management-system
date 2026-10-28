@@ -1,0 +1,11 @@
+# compiled files
+*.class
+
+# MySQL driver (download it separately)
+*.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+out/
